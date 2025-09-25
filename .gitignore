@@ -1,0 +1,10 @@
+backend/uploads/
+backend/reports/
+model/data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+*.DS_Store

@@ -1,3 +1,6 @@
 [submodule "Train"]
 	path = Train
 	url = https://github.com/yagmurozcaan/Train.git
+[submodule "train_model"]
+	path = train_model
+	url = https://github.com/yagmurozcaan/train_model.git

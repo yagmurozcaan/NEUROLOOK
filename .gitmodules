@@ -4,3 +4,5 @@
 [submodule "train_model"]
 	path = train_model
 	url = https://github.com/yagmurozcaan/train_model.git
+	branch = main
+
